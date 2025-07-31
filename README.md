@@ -17,25 +17,26 @@ Permite crear, editar, eliminar, buscar y filtrar tareas por estado de completad
 
 1. Clonar el repositorio:
 
-   git clone [<URL_DEL_REPO>](https://github.com/DaviAgulham/tasks-frontend)
+   git clone https://github.com/DaviAgulham/tasks-frontend
+   
    cd tasks-frontend
 
-2. Instalar dependencias:
+3. Instalar dependencias:
 
     npm install
 
-3. Configurar variables de entorno:
+4. Configurar variables de entorno:
 
     Crear un archivo .env basado en .env.example:
 
     VITE_API_URL=http://localhost:8000/api
 
-4. Levantar el proyecto:
+5. Levantar el proyecto:
 
     npm run dev
 
 
-5. Abrir la aplicación:
+6. Abrir la aplicación:
 
     Abrir en el navegador: http://localhost:5173
 
