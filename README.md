@@ -17,8 +17,8 @@ Permite crear, editar, eliminar, buscar y filtrar tareas por estado de completad
 
 1. Clonar el repositorio:
 
-   git clone <URL_DEL_REPO>
-   cd frontend
+   git clone [<URL_DEL_REPO>](https://github.com/DaviAgulham/tasks-frontend)
+   cd tasks-frontend
 
 2. Instalar dependencias:
 
